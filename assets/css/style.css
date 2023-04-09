@@ -13,7 +13,7 @@ body {
     height: 100vh;
     background-size: cover;
     box-sizing: border-box;
-    filter: blur(8px);
+    filter: blur(2px);
 }
 
 .bg-text {
