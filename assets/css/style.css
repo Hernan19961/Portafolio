@@ -17,7 +17,7 @@ body {
 }
 
 .bg-text {
-    color:white;
+    color: white;
     font-weight: bold;
     border: 1px solid white;
     position: absolute;
@@ -33,6 +33,7 @@ body {
 
 .custom-section {
     padding-top: 50px;
+
 }
 
 .cb {
@@ -55,7 +56,10 @@ footer {
 
 .home {
     background-image: url("../imgs/fotis-fotopoulos-6sAl6aQ4OWI-unsplash.jpg");
+
 }
 
+.img-fluid {
+    border-radius: 10px;
 
-
+}
