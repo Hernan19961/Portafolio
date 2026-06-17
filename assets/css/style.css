@@ -47,12 +47,7 @@ body {
     font-family: "New Tegomin";
 }
 
-footer {
-    background: black;
-    padding: 20px 0;
-    color: var(--main-color);
-    margin-top: 40px;
-}
+
 
 .home {
     background-image: url("../imgs/fotis-fotopoulos-6sAl6aQ4OWI-unsplash.jpg");
@@ -68,4 +63,11 @@ footer {
 .img-fluid:hover {
     transform: translateY(-5px);
     box-shadow: 0 15px 30px rgba(0,0,0,.35);
+}
+
+footer {background-color:black;
+    padding: 5px 0;
+    text-align: center;
+    font-family: "New Tegomin";
+    color: #dfd8d8;
 }
